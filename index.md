@@ -17,6 +17,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 ### Selected projects & publications
 - **rs-dna-pipeline – Modular Reed–Solomon(extendable to other codes) library for DNA storage (v0.2.0, Dec 2025)** → [GitHub](https://github.com/feeka/dna-storage)
 - **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025) → [GitHub](https://github.com/RNABioInfo/mcaat) • [DOI: 10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016)
+- Master’s thesis (2020): Cyclic codes for error detection in DNA storage → [PDF](assets/mt_dna_storage.pdf)
 - Study project (2019): API for Error Control Codes → [PDF](assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes.git) 
 
 
