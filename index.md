@@ -21,7 +21,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - Study project (2019): API for Error Control Codes → [PDF](assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes.git) 
 
 
-### Recent talks and seminars
+### Recent talks & seminars
 - **“Efficient trace reconstruction using Bidirectional Beam Search” (Gu et al. 2025) – Literature seminar, Oct 2025** → [slides](./assets/bbs_seminar.pdf)
 - “Succinct de Bruijn graphs & Metagraph” – Group meeting, 2025
 - "BeamSearch for detecting phages in human gut virome" - Institute meeting, Oct 2025
