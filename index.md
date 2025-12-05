@@ -4,7 +4,7 @@ title: Fikrat Talibli – PhD Candidate
 ---
 
 <div style="text-align:center; margin-bottom: 3rem;">
-  <img src="assets/profile.jpg" alt="Fikrat Talibli" style="width:180px; border-radius:50%; border:4px solid #2e6da4;">
+  <img src="assets/profile.jpeg" alt="Fikrat Talibli" style="width:180px; border-radius:50%; border:4px solid #2e6da4;">
   <h1>Fikrat Talibli</h1>
   <p><strong>PhD Candidate – Computational Biology & Algorithmics</strong><br>
   University of Stuttgart • Expected defense: April–June 2026<br>
