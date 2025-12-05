@@ -22,7 +22,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 
 
 ### Recent talks and seminars
-- __“Efficient trace reconstruction using Bidirectional Beam Search” (Gu et al. 2025) – Literature seminar, Oct 2025__ → [slides](./assets/bbs-seminar.pdf)
+- **“Efficient trace reconstruction using Bidirectional Beam Search” (Gu et al. 2025) – Literature seminar, Oct 2025** → [slides](./assets/bbs_seminar.pdf)
 - “Succinct de Bruijn graphs & Metagraph” – Group meeting, 2025
 - "BeamSearch for detecting phages in human gut virome" - Institute meeting, Oct 2025
 - "WS2025/2026" - machine learning in biology  
