@@ -8,7 +8,7 @@ title: Fikrat Talibli – PhD Candidate
   <h1>Fikrat Talibli</h1>
   <p><strong>PhD Candidate – Computational Biology & Algorithmics</strong><br>
   University of Stuttgart • Expected defense: April–June 2026<br>
-  <a href="mailto:fikrattalibli@gmail.com">fikrattalibli@gmail.com</a> • Stuttgart, Germany • German work permit</p>
+  <a href="mailto:fikrattalibli@gmail.com">fikrattalibli@gmail.com</a> • Stuttgart, Germany</p>
 </div>
 
 ### Research focus & favorite topics
