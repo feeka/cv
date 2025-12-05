@@ -10,7 +10,7 @@ title: Fikrat Talibli – PhD Candidate
   University of Stuttgart • Expected defense: April–June 2026<br>
   <a href="mailto:fikrattalibli@gmail.com">fikrattalibli@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/feeka/">LinkedIn</a> • 
-  Stuttgart, Germany • German work permit</p>
+  Stuttgart, Germany</p>
 </div>
 
 ### Research focus
