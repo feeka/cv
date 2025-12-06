@@ -19,12 +19,12 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (v0.2.0, Dec 2025)  
   _99 %+ recovery at 2 % indel noise (benchmarks in repo)_ → [GitHub](https://github.com/feeka/dna-storage)
 - **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025)  
-  _Scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes_ → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016) • [GitHub](https://github.com/RNABioInfo/mcaat)
+  _Scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes using cycle detecting algorithms_ → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016) • [GitHub](https://github.com/RNABioInfo/mcaat)
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage  
-  _Low-overhead (≤ 3 % redundancy) cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689) • [GitHub](https://github.com/feeka/mt_dna_as_storage.git)
+  _Low-overhead cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
 - **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
-- Publication in progress... **MCAAT 2.0**: Spacer ordering and phage detection in metagenomic data
-  _Enumerate all the long paths in de Bruijn graph using BeamSearch algorithm_ → [GitHub](https://github.com/RNABioInfo/mcaat)
+- **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (in progress)  
+  _Enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ → [GitHub](https://github.com/RNABioInfo/mcaat)
 
 ### Recent talks & seminars
 - **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) – Nov 2025 → [slides](./assets/bbs_seminar.pdf)
@@ -33,7 +33,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - Machine Learning in Biology – Lecturer, WS 2025/26
 
 ### Skills
-C++20 • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Compiler-level HPC memory optimisation
+C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks • Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation
 
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
