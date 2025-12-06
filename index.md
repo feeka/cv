@@ -23,7 +23,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage  
   _Low-overhead (≤ 3 % redundancy) cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689) • [GitHub](https://github.com/feeka/mt_dna_as_storage.git)
 - **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
-- Publication in progress [•]: MCAAT 2.0: Spacer ordering and phage detection in metagenomic data
+- Publication in progress... **MCAAT 2.0**: Spacer ordering and phage detection in metagenomic data
   _Enumerate all the long paths in de Bruijn graph using BeamSearch algorithm_ → [GitHub](https://github.com/RNABioInfo/mcaat)
 
 ### Recent talks & seminars
