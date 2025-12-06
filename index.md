@@ -15,11 +15,12 @@ title: Fikrat Talibli – PhD Candidate
 Error-correcting codes for DNA data storage • Trace reconstruction • Succinct de Bruijn graphs • Metagenomics • Complex graphs • Abstract algebra • Graph algorithms • DSL(domain-specific language) development • Neural nets • Neural ordinary differential equations
 
 ### Selected projects & publications
-- **rs-dna-pipeline: Modular Reed–Solomon(extendable to other codes) library for DNA storage (v0.2.0, Dec 2025)** - _99%+ recovery at 2% indel noise (benchmarks in repo)._ → [GitHub](https://github.com/feeka/dna-storage)
+
+- **rs-dna-pipeline: Modular Reed–Solomon(extendable to other codes) library for DNA storage (v0.2.0, Dec 2025)** - _99%+ recovery at 2% indel noise (benchmarks in repo)_ → [GitHub](https://github.com/feeka/dna-storage)
 - **MCAAT**: Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025) - _Scales to billion-node de Bruijn graphs, detecting CRISPR systems in unassembled metagenomes_ → [GitHub](https://github.com/RNABioInfo/mcaat) • [DOI: 10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016)
 - Master thesis (2020): Cyclic codes for error detection in DNA storage - _Low-overhead cyclic parity layer that reliably flags typical sequencing errors for early DNA-storage prototypes_ → [PDF](assets/mt_dna_storage.pdf) → [GitHub](https://github.com/feeka/mt_dna_as_storage.git)
 - Study project (2019): API for Error Control Codes → [PDF](assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes.git) 
-
+- In progress [x][x][•]: **MCAAT 2.0**: Spacer ordering and phage detection in metagenomic data - _Enumerate all the long stretches of DNA sequences of phage using BeamSearch algorithm_ → [GitHub](https://github.com/RNABioInfo/mcaat) • [DOI: 10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016)
 
 ### Recent talks & seminars
 - **“Efficient trace reconstruction using Bidirectional Beam Search” (Gu et al. 2025) – Literature seminar, Nov 2025** → [slides](./assets/bbs_seminar.pdf)
