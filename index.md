@@ -13,7 +13,7 @@ title: Fikrat Talibli – PhD Candidate
 </div>
 
 ### Research focus
-Error-correcting codes for DNA data storage • Trace reconstruction • Succinct de Bruijn graphs • Metagenomics • Billion-node graph algorithms • Markov models • Neural nets
+Error-correcting codes for DNA data storage • Trace reconstruction • Succinct de Bruijn graphs • Metagenomics • Graph algorithms • Probabilistic models • Neural nets • Abstract algebra
 
 ### Selected projects & publications
 - **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (v0.2.0, Dec 2025)  
@@ -51,7 +51,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
   - designed and developed user-focused helper applications in C#
   - created detailed software manuals and documentation to enhance user experience
 
-  
+
 ### Skills
 C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks • Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation
 
