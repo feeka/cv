@@ -37,12 +37,12 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - **B.Sc. Computer Engineering**, _ASOIU, Azerbaijan, September 2013 – June 2017_
 
 ### Experience
-- **PhD Researcher in Computational Biology**, _University of Stuttgart, December, 2020 - April, 2026_
+- **PhD Researcher in Computational Biology**, _University of Stuttgart, December 2020 - April 2026_
   - graph algorithms, bounded cycle enumeration algorithm on directed graphs, succinct data structures, Viterbi, A*, BeamSearch for pathfinding
   - advanced memory management techniques in a multi-threaded environment, e.g., data structures and prefetching techniques in HPC
-  - tools: C++, CMakeLists, Python, HMMER, HMM file, MegaHit assembly tool for succinct data structure/succinct de Bruijn graph, OpenMP, edlib for edit distance calculations, pyhmmer, MegaGTA
-  - taught machine learning in biology for master students, and worked with neural ordinary differential equations
-- **Working Student - Web Developer**, _Libelle AG, Stuttgart January 2018 - July 2018_
+  - tools: HMMER, HMM file, MegaHit assembly tool for succinct data structure/succinct de Bruijn graph, edlib for edit distance calculations, pyhmmer, MegaGTA
+  - taught machine learning in biology for master students, supervised 2 Masters' and 1 Bachelor's theses and worked with neural ordinary differential equations
+- **Working Student - Web Developer**, _Libelle AG, Stuttgart, January 2018 - July 2018_
   - developed a communication module using Node.js, redesigned the web platform with React.js, and documented the code
   - was involved with various departments and teams throughout the development of the project, and presented the product to the team members
 - **Junior Developer and Technical Support**, _R.I.S.K. Company, Baku,  June 2013 - September 2016_
@@ -53,7 +53,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 
 
 ### Skills
-C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks • Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation
+Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation • C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks 
 
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
