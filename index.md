@@ -27,9 +27,9 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
   _Enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ → [GitHub](https://github.com/RNABioInfo/mcaat)
 
 ### Recent talks & seminars
-- **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) – Nov 2025 → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
-- Succinct de Bruijn graphs & Metagraph – Group meeting, 2025
-- Beam search for phage detection in human gut virome – Oct 2025
+- **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
+- Succinct de Bruijn graphs & Metagraph – Group meeting
+- Beam search for phage detection in human gut virome
 - Machine Learning in Biology – Lecturer, WS 2025/26
 
 ### Education
