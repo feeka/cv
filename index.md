@@ -35,6 +35,26 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 ### Skills
 C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks • Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation
 
+### Education
+- M.Sc. INFOTECH, University of Stuttgart, Germany October, 2017 – June, 2020
+- B.Sc. Computer Engineering (Minor in Electronics), ASOIU, Azerbaijan September, 2013 – June, 2017
+
+### Experience
+- **PhD Researcher in Computational Biology**, _University of Stuttgart, December, 2020 - April, 2026_
+  - graph algorithms, bounded cycle enumeration algorithm on directed graphs, succinct data structures, Viterbi, A*, BeamSearch for pathfinding
+  - advanced memory management techniques in a multi-threaded environment, e.g., data structures and prefetching techniques in HPC
+  - tools: C++, CMakeLists, Python, HMMER, HMM file, MegaHit assembly tool for succinct data structure/succinct de Bruijn graph, OpenMP, edlib for edit distance calculations, pyhmmer, MegaGTA
+  - taught machine learning in biology for master students, and worked with neural ordinary differential equations
+- **Working Student - Web Developer**, _Libelle AG, Stuttgart January 2018 - July 2018_
+  - developed a communication module using Node.js, redesigned the web platform with React.js, and documented the code
+  - was involved with various departments and teams throughout the development of the project, and presented the product to the team members
+- **Junior Developer and Technical Support**, R.I.S.K. Company, Baku,  June 2013 - September 2016
+  - collaborated with clients across diverse countries and age groups, ensuring clear communication and tailored support
+  - delivered software presentations and provided comprehensive technical assistance
+  - designed and developed user-focused helper applications in C#
+  - created detailed software manuals and documentation to enhance user experience
+
+
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
 
