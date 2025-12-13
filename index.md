@@ -18,13 +18,13 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 ### Selected projects & publications
 - **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (v0.2.0, Dec 2025)  
   _99 %+ recovery at 2 % deletion-substitution noise (benchmarks in repo)_ → [GitHub](https://github.com/feeka/dna-storage)
+- **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (in progress)  
+  _Enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ → [GitHub](https://github.com/RNABioInfo/mcaat)
 - **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025)  
   _Scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes using cycle detecting algorithms_ → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016) • [GitHub](https://github.com/RNABioInfo/mcaat)
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage  
   _Low-overhead cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
 - **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](https://feeka.github.io/cv/assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
-- **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (in progress)  
-  _Enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ → [GitHub](https://github.com/RNABioInfo/mcaat)
 
 ### Recent talks & seminars
 - **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
