@@ -38,8 +38,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 
 ### Experience
 - **PhD Researcher in Computational Biology**, _University of Stuttgart, December 2020 - April 2026_
-  - graph algorithms, bounded cycle enumeration algorithm on directed graphs, succinct data structures, Viterbi, A*, BeamSearch for pathfinding
-  - advanced memory management techniques in a multi-threaded environment, e.g., data structures and prefetching techniques in HPC
+  - graph algorithms, bounded cycle enumeration algorithm on directed graphs, succinct data structures, Viterbi, A*, BeamSearch for pathfinding, advanced memory management techniques in a multi-threaded environment, e.g., data structures and prefetching techniques in HPC
   - tools: HMMER, HMM file, MegaHit assembly tool for succinct data structure/succinct de Bruijn graph, edlib for edit distance calculations, pyhmmer, MegaGTA
   - taught machine learning in biology for master students and supervised 2 Masters' and 1 Bachelor's theses
 - **Working Student - Web Developer**, _Libelle AG, Stuttgart, January 2018 - July 2018_
