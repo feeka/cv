@@ -21,13 +21,13 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025)  
   _Scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes using cycle detecting algorithms_ → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016) • [GitHub](https://github.com/RNABioInfo/mcaat)
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage  
-  _Low-overhead cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
-- **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
+  _Low-overhead cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
+- **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](https://feeka.github.io/cv/assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
 - **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (in progress)  
   _Enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ → [GitHub](https://github.com/RNABioInfo/mcaat)
 
 ### Recent talks & seminars
-- **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) – Nov 2025 → [slides](./assets/bbs_seminar.pdf)
+- **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) – Nov 2025 → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
 - Succinct de Bruijn graphs & Metagraph – Group meeting, 2025
 - Beam search for phage detection in human gut virome – Oct 2025
 - Machine Learning in Biology – Lecturer, WS 2025/26
@@ -45,7 +45,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - **Working Student - Web Developer**, _Libelle AG, Stuttgart January 2018 - July 2018_
   - developed a communication module using Node.js, redesigned the web platform with React.js, and documented the code
   - was involved with various departments and teams throughout the development of the project, and presented the product to the team members
-- **Junior Developer and Technical Support**, R.I.S.K. Company, Baku,  June 2013 - September 2016
+- **Junior Developer and Technical Support**, _R.I.S.K. Company, Baku,  June 2013 - September 2016_
   - collaborated with clients across diverse countries and age groups, ensuring clear communication and tailored support
   - delivered software presentations and provided comprehensive technical assistance
   - designed and developed user-focused helper applications in C#
