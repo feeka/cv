@@ -17,7 +17,7 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 
 ### Selected projects & publications
 - **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (v0.2.0, Dec 2025)  
-  _99 %+ recovery at 2 % indel noise (benchmarks in repo)_ → [GitHub](https://github.com/feeka/dna-storage)
+  _99 %+ recovery at 2 % deletion-substitution noise (benchmarks in repo)_ → [GitHub](https://github.com/feeka/dna-storage)
 - **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025)  
   _Scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes using cycle detecting algorithms_ → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016) • [GitHub](https://github.com/RNABioInfo/mcaat)
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage  
