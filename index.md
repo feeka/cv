@@ -33,8 +33,8 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - Machine Learning in Biology – Lecturer, WS 2025/26
 
 ### Education
-- M.Sc. INFOTECH, University of Stuttgart, Germany October, 2017 – June, 2020
-- B.Sc. Computer Engineering (Minor in Electronics), ASOIU, Azerbaijan September, 2013 – June, 2017
+- M.Sc. INFOTECH, University of Stuttgart, Germany, October 2017 – June 2020
+- B.Sc. Computer Engineering, ASOIU, Azerbaijan, September 2013 – June 2017
 
 ### Experience
 - **PhD Researcher in Computational Biology**, _University of Stuttgart, December, 2020 - April, 2026_
