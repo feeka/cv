@@ -32,9 +32,6 @@ Error-correcting codes for DNA data storage • Trace reconstruction • Succinc
 - Beam search for phage detection in human gut virome – Oct 2025
 - Machine Learning in Biology – Lecturer, WS 2025/26
 
-### Skills
-C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks • Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation
-
 ### Education
 - M.Sc. INFOTECH, University of Stuttgart, Germany October, 2017 – June, 2020
 - B.Sc. Computer Engineering (Minor in Electronics), ASOIU, Azerbaijan September, 2013 – June, 2017
@@ -54,6 +51,9 @@ C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer)
   - designed and developed user-focused helper applications in C#
   - created detailed software manuals and documentation to enhance user experience
 
+  
+### Skills
+C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks • Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation
 
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
