@@ -56,3 +56,8 @@ Abstract algebra • Error control codes • Trace reconstruction algorithms •
 
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
+
+<br>
+<p style="text-align:center;">
+  <a href="assets/talibli_cv.pdf">Download CV as PDF</a> • Last updated: December 2025
+</p>
