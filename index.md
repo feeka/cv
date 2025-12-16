@@ -36,6 +36,8 @@ title: Fikrat Talibli – PhD Candidate
 
 ### Education
 - **M.Sc. INFOTECH**, _University of Stuttgart, Germany, October 2017 – June 2020_
+- **B.Sc. Computer Engineering**, _Azerbaijan State Oil and Industry University, Azerbaijan, September 2013 - May 2017_ 
+
 
 ### Experience
 - **PhD Researcher in Computational Biology**, _University of Stuttgart, December 2020 - April 2026_
