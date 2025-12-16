@@ -54,7 +54,7 @@ title: Fikrat Talibli – PhD Candidate
 
 
 ### Skills
-C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Graph algorithms • Alignment algorithms • HPC • Neural networks • Abstract algebra • Error control codes 
+C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Graph algorithms • Alignment algorithms • HPC • Neural networks • Abstract algebra
 
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
