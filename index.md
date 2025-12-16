@@ -13,28 +13,28 @@ title: Fikrat Talibli – PhD Candidate
 </div>
 
 ### Research focus
-Error-correcting codes for DNA data storage • Trace reconstruction • Succinct de Bruijn graphs • Metagenomics • Graph algorithms • Probabilistic models • Neural nets • Abstract algebra
+ Succinct data structures • De Bruijn graphs • Metagenomics • Graph algorithms • Probabilistic models • Neural nets • Abstract algebra • Alignment algorithms • Molecular biology
 
 ### Selected projects & publications
-- **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (v0.2.0, Dec 2025)  
-  _99 %+ recovery at 2 % deletion-substitution noise (benchmarks in repo)_ → [GitHub](https://github.com/feeka/dna-storage)
-- **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (paper in progress)  
-  _Enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ → [GitHub](https://github.com/RNABioInfo/mcaat)
-- **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025)  
-  _Scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes using cycle detecting algorithms_ → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016) • [GitHub](https://github.com/RNABioInfo/mcaat)
-- **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage  
-  _Low-overhead cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_ → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
+- **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (paper in progress) → [GitHub](https://github.com/RNABioInfo/mcaat)
+  - _MCAAT 2.0 enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ 
+  - _Region where the beam search starts is nearby the CRISPR Array cluster_
+  - _Using datasets from [PRJNA715601](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA715601) to verify the findings_
+- **MCAAT** – Metagenomic CRISPR Array Analysis Tool (first author, microLife 2025) • [GitHub](https://github.com/RNABioInfo/mcaat) → [DOI:10.1093/femsml/uqaf016](https://doi.org/10.1093/femsml/uqaf016)
+  - _MCAAT scales to billion-node de Bruijn graphs, detecting CRISPR arrays in unassembled metagenomes using cycle finding algorithms_ 
+  _The workflow includes node selection based on a node indegree and coverage, cycle detection and enumeration and local alignment_
+- **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
 - **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](https://feeka.github.io/cv/assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
+- **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (fun side project) _ → [GitHub](https://github.com/feeka/dna-storage)
 
 ### Recent talks & seminars
 - **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
-- Succinct de Bruijn graphs & Metagraph – Group meeting
-- Beam search for phage detection in human gut virome
+- Succinct de Bruijn graphs – Group meeting 
+- Beam search for phage detection in human gut virome - institute seminar
 - Machine Learning in Biology – Lecturer, WS 2025/26
 
 ### Education
 - **M.Sc. INFOTECH**, _University of Stuttgart, Germany, October 2017 – June 2020_
-- **B.Sc. Computer Engineering**, _ASOIU, Azerbaijan, September 2013 – June 2017_
 
 ### Experience
 - **PhD Researcher in Computational Biology**, _University of Stuttgart, December 2020 - April 2026_
