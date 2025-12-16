@@ -25,7 +25,6 @@ title: Fikrat Talibli – PhD Candidate
   - _The workflow includes node selection based on a node indegree and coverage, cycle detection and enumeration and local alignment_
   - _We used [crisprcasdb](https://crisprcas.i2bc.paris-saclay.fr/MainDb/StrainList) to verify the correctness of the proposed approach_
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
-- **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](https://feeka.github.io/cv/assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes)
 - **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (fun side project) → [GitHub](https://github.com/feeka/dna-storage)
 
 ### Recent talks & seminars
@@ -55,12 +54,9 @@ title: Fikrat Talibli – PhD Candidate
 
 
 ### Skills
-Abstract algebra • Error control codes • Trace reconstruction algorithms • Compiler-level HPC memory optimisation • C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Gupta-Suzumura bounded length cycle algorithm • Neural networks 
+C++ • Succinct data structures • OpenMP • Python (NumPy, PyTorch, pyhmmer) • HMMs & Viterbi • Beam search • Graph algorithms • Alignment algorithms • HPC • Neural networks • Abstract algebra • Error control codes 
 
 ### Languages
 Azerbaijani (native) • English (C1/C2) • Russian (C1/C2) • German (B2) • French (B1/B2)
 
-<br>
-<p style="text-align:center;">
-  <a href="assets/talibli_cv.pdf">Download CV as PDF</a> • Last updated: December 2025
-</p>
+ 
