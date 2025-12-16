@@ -13,7 +13,7 @@ title: Fikrat Talibli – PhD Candidate
 </div>
 
 ### Research focus
- Succinct data structures • De Bruijn graphs • Metagenomics • Graph algorithms • Probabilistic models • Neural nets • Abstract algebra • Alignment algorithms • Molecular biology
+ Metagenomics • Succinct data structures • De Bruijn graphs •  Graph algorithms • Probabilistic models • Neural nets • Abstract algebra • Alignment algorithms • Molecular biology
 
 ### Selected projects & publications
 - **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (paper in progress) → [GitHub](https://github.com/RNABioInfo/mcaat)
