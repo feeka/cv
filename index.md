@@ -16,6 +16,11 @@ title: Fikrat Talibli – PhD Candidate
  Metagenomics • Succinct data structures • De Bruijn graphs •  Graph algorithms • Probabilistic models • Neural nets • Abstract algebra • Alignment algorithms • Molecular biology
 
 ### Selected projects & publications
+
+- **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (fun side project) → [GitHub](https://github.com/feeka/dna-storage)
+
+- **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (fun side project) → [GitHub](https://github.com/feeka/dna-storage)
+  - _99 %+ recovery at 2 % deletion-substitution noise (benchmarks in repo)_
 - **MCAAT 2.0** – Spacer ordering and phage detection in metagenomic data (paper in progress) → [GitHub](https://github.com/RNABioInfo/mcaat)
   - _MCAAT 2.0 enumerates long paths in de Bruijn graphs using beam search for phage sequence recovery_ 
   - _Region where the beam search starts is nearby the CRISPR Array cluster_
@@ -25,7 +30,8 @@ title: Fikrat Talibli – PhD Candidate
   - _The workflow includes node selection based on a node indegree and coverage, cycle detection and enumeration and local alignment_
   - _We used [crisprcasdb](https://crisprcas.i2bc.paris-saclay.fr/MainDb/StrainList) to verify the correctness of the proposed approach_
 - **Master’s thesis (2020)** – Cyclic codes for error detection in DNA storage → [PDF](https://feeka.github.io/cv/assets/mt_dna_storage.pdf) • [ResearchGate](https://www.researchgate.net/publication/346902689)
-- **rs-dna-pipeline** – Modular Reed–Solomon library for DNA storage (fun side project) → [GitHub](https://github.com/feeka/dna-storage)
+  - _Low-overhead cyclic parity layer that reliably flags synthesis/sequencing errors (insertions, deletions, substitutions) when combined with outer Reed–Solomon correction_
+- **Study project (2019)** – Reed–Solomon codes & finite-field implementations → [PDF](https://feeka.github.io/cv/assets/study_project.pdf) • [GitHub](https://github.com/feeka/reed_solomon_codes.git)
 
 ### Recent talks & seminars
 - **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
