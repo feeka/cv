@@ -16,7 +16,8 @@ title: Fikrat Talibli – PhD Candidate
 
 
 ### Recent talks & seminars
-- **Efficient trace reconstruction using Bidirectional Beam Search** (Gu et al. 2025) → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
+- **PhD Defense: Graph-based approaches to finding CRISPR-Cas in metagenomic data** → [slides](https://feeka.github.io/cv/assets/defense.pdf)
+- Efficient trace reconstruction using Bidirectional Beam Search (Gu et al. 2025) → [slides](https://feeka.github.io/cv/assets/bbs_seminar.pdf)
 - Succinct de Bruijn graphs – Group meeting → [slides](https://feeka.github.io/cv/assets/sdbg.pdf)
 - Beam search for phage detection in human gut virome - institute seminar
 - Machine Learning in Biology – Lecturer, WS 2025/26
